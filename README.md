@@ -1,2 +1,2 @@
-# C---35
-Structuring Code
+# synchronousBallMovement
+Ball moving synchronously
